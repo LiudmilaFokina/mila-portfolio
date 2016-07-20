@@ -1,0 +1,12 @@
+<div class="about" id="about">
+        <div class="container">
+          <div class="col-md-6>" <h2>Mila Web Studio></h2>
+            <p>I'm a beginner programmer with big ambitions. i have experience in developing websites that have made a lasting impression on customers. I'm very attentive, focused and can quickly work</p>
+            <p>I have interest in my development in the field of development. For this reason I continue training web development using the FreeCodeCamp.com</p>
+            <p><em>And also I'm very beautiful and brew excellent coffee</em></p>
+          </div>
+          <div class="col-sm-6">
+            <ing src="https://pp.vk.me/c624119/v624119313/65c06/yhCVHjvDtLg.jpg" alt="My Image">
+          </div>
+        </div>
+      </div>
