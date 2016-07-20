@@ -13,7 +13,7 @@
             <li><a href="#">Mila Fokina</a></li>
           </ul>
         </div>
-        <div class="col-md-6 row" >
+        <div class="col-md-6 row">
           <ul class="nav navbar-nav">
             <li>><a href="#">Home</a></li>
             <li><a href="#about">About</a></li>
@@ -43,50 +43,49 @@
         </div>
       </div>
 
-<div class="about" id="about">
-      <div class="container">
-      <div class="col-md-6>"
-        <h2>Mila Web Studio></h2>
-        <p>I'm a beginner programmer with big ambitions. i have experience in developing websites that have made a lasting impression on customers. I'm very attentive, focused and can quickly work</p>
-        <p>I have interest in my development in the field of development. For this reason I continue training web development using the FreeCodeCamp.com</p>
-        <p><em>And also I'm very beautiful and brew excellent coffee</em></p>
-      </div>
-    <div class="col-sm-6">
-      <ing src="https://pp.vk.me/c624119/v624119313/65c06/yhCVHjvDtLg.jpg"alt="My Image">
-      </div>
-      </div>
+      <div class="about" id="about">
+        <div class="container">
+          <div class="col-md-6>" <h2>Mila Web Studio></h2>
+            <p>I'm a beginner programmer with big ambitions. i have experience in developing websites that have made a lasting impression on customers. I'm very attentive, focused and can quickly work</p>
+            <p>I have interest in my development in the field of development. For this reason I continue training web development using the FreeCodeCamp.com</p>
+            <p><em>And also I'm very beautiful and brew excellent coffee</em></p>
+          </div>
+          <div class="col-sm-6">
+            <ing src="https://pp.vk.me/c624119/v624119313/65c06/yhCVHjvDtLg.jpg" alt="My Image">
+          </div>
+        </div>
       </div>
 
       <div class="portfolio" id="portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>Portfolio</h1>
-      </div>  
-    </div> 
-
-    <div class="works row">
-      <div class="frame col-md-6">
-        <div class="screenshot">
-        <a href="https://codepen.io/MilaFokina/pen/NAjrrJ" target="_blank">
-          <img src="https://pp.vk.me/c630931/v630931313/3f0ef/w21z2RZdhy8.jpg" alt="portfolio"></a>
-
+        <div class="container">
           <div class="row">
-      <div class="col-md-4">
-        <p>Coming Soon</p>        
-       <a href="#">
-        <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
-      </a>
-    </div>
+            <div class="col-md-12">
+              <h1>Portfolio</h1>
+            </div>
+          </div>
 
-    <div class="row">
-<div class="col-md-4">
-  <p>Coming Soon</p>        
- <a href="#">
-  <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
-</a>
-</div>
-</div>
-</div>
-</div>
+          <div class="works row">
+            <div class="frame col-md-6">
+              <div class="screenshot">
+                <a href="https://codepen.io/MilaFokina/pen/NAjrrJ" target="_blank">
+                  <img src="https://pp.vk.me/c630931/v630931313/3f0ef/w21z2RZdhy8.jpg" alt="portfolio"></a>
+
+                <div class="row">
+                  <div class="col-md-4">
+                    <p>Coming Soon</p>
+                    <a href="#">
+                      <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
+                    </a>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-md-4">
+                      <p>Coming Soon</p>
+                      <a href="#">
+                        <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
 
