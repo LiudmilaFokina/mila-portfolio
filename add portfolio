@@ -1,0 +1,36 @@
+<div class="container-fluid" id="portfolio">
+    <header>
+        <h3>Portfolio</h3>
+        <h2>Mila's works</h2>
+    </header>
+
+        <div class="works row">
+          <div class="frame col-md-6">
+            <div class="screenshot">
+              <a href="https://codepen.io/MilaFokina/pen/NAjrrJ" target="_blank">
+                <img src="https://pp.vk.me/c630931/v630931313/3f0ef/w21z2RZdhy8.jpg" alt="portfolio"></a>
+
+              <div class="row">
+                <div class="col-md-4">
+                  <p>Coming Soon</p>
+                  <a href="#">
+                    <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
+                  </a>
+                </div>
+
+                <div class="row">
+                  <div class="col-md-4">
+                    <p>Coming Soon</p>
+                    <a href="#">
+                      <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
+                    </a>
+                  </div>
+
+                  <div class="row">
+                    <div class="col-md-4">
+                      <p>Coming Soon</p>
+                      <a href="#">
+                        <img src=http://www.avantgarde.com.hk/uploads/3/9/1/7/39170361/9893660_orig.jpg>
+                    </div>
+                  </div>
+                </div>
